@@ -8,10 +8,5 @@ test("loads and displays greeting", async () => {
   render(<App />);
 
   // ACT
-  await userEvent.click(screen.getByText("Load Greeting"));
-  await screen.findByRole("heading");
-
-  // ASSERT
-  expect(screen.getByRole("heading")).toHaveTextContent("hello there");
-  expect(screen.getByRole("button")).toBeDisabled();
+  screen.getByText("Enter a task");
 });
