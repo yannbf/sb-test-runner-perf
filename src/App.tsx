@@ -1,6 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import { useForm, SubmitHandler } from "react-hook-form";
+import { TaskList } from "./TaskList";
 
 type Inputs = {
   task: string;
@@ -27,11 +28,7 @@ export function App() {
         <input id="task-name" {...register("task")} />
         <input type="submit" />
       </form>
-      <ul>
-        {tasks.map((task, i) => {
-          return <li>{`${i} ${task}`}</li>;
-        })}
-      </ul>
+      <TaskList tasks={tasks}></TaskList>
     </div>
   );
 }
