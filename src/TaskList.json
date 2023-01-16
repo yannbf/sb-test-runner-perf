@@ -1,0 +1,4080 @@
+{
+    "testCases": [
+        {
+            "character": "、",
+            "testCaseNumber": 0
+        },
+        {
+            "character": "。",
+            "testCaseNumber": 1
+        },
+        {
+            "character": "〃",
+            "testCaseNumber": 2
+        },
+        {
+            "character": "〄",
+            "testCaseNumber": 3
+        },
+        {
+            "character": "々",
+            "testCaseNumber": 4
+        },
+        {
+            "character": "〆",
+            "testCaseNumber": 5
+        },
+        {
+            "character": "〇",
+            "testCaseNumber": 6
+        },
+        {
+            "character": "〈",
+            "testCaseNumber": 7
+        },
+        {
+            "character": "〉",
+            "testCaseNumber": 8
+        },
+        {
+            "character": "《",
+            "testCaseNumber": 9
+        },
+        {
+            "character": "》",
+            "testCaseNumber": 10
+        },
+        {
+            "character": "「",
+            "testCaseNumber": 11
+        },
+        {
+            "character": "」",
+            "testCaseNumber": 12
+        },
+        {
+            "character": "『",
+            "testCaseNumber": 13
+        },
+        {
+            "character": "』",
+            "testCaseNumber": 14
+        },
+        {
+            "character": "【",
+            "testCaseNumber": 15
+        },
+        {
+            "character": "】",
+            "testCaseNumber": 16
+        },
+        {
+            "character": "〒",
+            "testCaseNumber": 17
+        },
+        {
+            "character": "〓",
+            "testCaseNumber": 18
+        },
+        {
+            "character": "〔",
+            "testCaseNumber": 19
+        },
+        {
+            "character": "〕",
+            "testCaseNumber": 20
+        },
+        {
+            "character": "〖",
+            "testCaseNumber": 21
+        },
+        {
+            "character": "〗",
+            "testCaseNumber": 22
+        },
+        {
+            "character": "〘",
+            "testCaseNumber": 23
+        },
+        {
+            "character": "〙",
+            "testCaseNumber": 24
+        },
+        {
+            "character": "〚",
+            "testCaseNumber": 25
+        },
+        {
+            "character": "〛",
+            "testCaseNumber": 26
+        },
+        {
+            "character": "〜",
+            "testCaseNumber": 27
+        },
+        {
+            "character": "〝",
+            "testCaseNumber": 28
+        },
+        {
+            "character": "〞",
+            "testCaseNumber": 29
+        },
+        {
+            "character": "〟",
+            "testCaseNumber": 30
+        },
+        {
+            "character": "〠",
+            "testCaseNumber": 31
+        },
+        {
+            "character": "〡",
+            "testCaseNumber": 32
+        },
+        {
+            "character": "〢",
+            "testCaseNumber": 33
+        },
+        {
+            "character": "〣",
+            "testCaseNumber": 34
+        },
+        {
+            "character": "〤",
+            "testCaseNumber": 35
+        },
+        {
+            "character": "〥",
+            "testCaseNumber": 36
+        },
+        {
+            "character": "〦",
+            "testCaseNumber": 37
+        },
+        {
+            "character": "〧",
+            "testCaseNumber": 38
+        },
+        {
+            "character": "〨",
+            "testCaseNumber": 39
+        },
+        {
+            "character": "〩",
+            "testCaseNumber": 40
+        },
+        {
+            "character": "〪",
+            "testCaseNumber": 41
+        },
+        {
+            "character": "〫",
+            "testCaseNumber": 42
+        },
+        {
+            "character": "〬",
+            "testCaseNumber": 43
+        },
+        {
+            "character": "〭",
+            "testCaseNumber": 44
+        },
+        {
+            "character": "〮",
+            "testCaseNumber": 45
+        },
+        {
+            "character": "〯",
+            "testCaseNumber": 46
+        },
+        {
+            "character": "〰",
+            "testCaseNumber": 47
+        },
+        {
+            "character": "〱",
+            "testCaseNumber": 48
+        },
+        {
+            "character": "〲",
+            "testCaseNumber": 49
+        },
+        {
+            "character": "〳",
+            "testCaseNumber": 50
+        },
+        {
+            "character": "〴",
+            "testCaseNumber": 51
+        },
+        {
+            "character": "〵",
+            "testCaseNumber": 52
+        },
+        {
+            "character": "〶",
+            "testCaseNumber": 53
+        },
+        {
+            "character": "〷",
+            "testCaseNumber": 54
+        },
+        {
+            "character": "〸",
+            "testCaseNumber": 55
+        },
+        {
+            "character": "〹",
+            "testCaseNumber": 56
+        },
+        {
+            "character": "〺",
+            "testCaseNumber": 57
+        },
+        {
+            "character": "〻",
+            "testCaseNumber": 58
+        },
+        {
+            "character": "〼",
+            "testCaseNumber": 59
+        },
+        {
+            "character": "〽",
+            "testCaseNumber": 60
+        },
+        {
+            "character": "〾",
+            "testCaseNumber": 61
+        },
+        {
+            "character": "぀",
+            "testCaseNumber": 62
+        },
+        {
+            "character": "ぁ",
+            "testCaseNumber": 63
+        },
+        {
+            "character": "あ",
+            "testCaseNumber": 64
+        },
+        {
+            "character": "ぃ",
+            "testCaseNumber": 65
+        },
+        {
+            "character": "い",
+            "testCaseNumber": 66
+        },
+        {
+            "character": "ぅ",
+            "testCaseNumber": 67
+        },
+        {
+            "character": "う",
+            "testCaseNumber": 68
+        },
+        {
+            "character": "ぇ",
+            "testCaseNumber": 69
+        },
+        {
+            "character": "え",
+            "testCaseNumber": 70
+        },
+        {
+            "character": "ぉ",
+            "testCaseNumber": 71
+        },
+        {
+            "character": "お",
+            "testCaseNumber": 72
+        },
+        {
+            "character": "か",
+            "testCaseNumber": 73
+        },
+        {
+            "character": "が",
+            "testCaseNumber": 74
+        },
+        {
+            "character": "き",
+            "testCaseNumber": 75
+        },
+        {
+            "character": "ぎ",
+            "testCaseNumber": 76
+        },
+        {
+            "character": "く",
+            "testCaseNumber": 77
+        },
+        {
+            "character": "ぐ",
+            "testCaseNumber": 78
+        },
+        {
+            "character": "け",
+            "testCaseNumber": 79
+        },
+        {
+            "character": "げ",
+            "testCaseNumber": 80
+        },
+        {
+            "character": "こ",
+            "testCaseNumber": 81
+        },
+        {
+            "character": "ご",
+            "testCaseNumber": 82
+        },
+        {
+            "character": "さ",
+            "testCaseNumber": 83
+        },
+        {
+            "character": "ざ",
+            "testCaseNumber": 84
+        },
+        {
+            "character": "し",
+            "testCaseNumber": 85
+        },
+        {
+            "character": "じ",
+            "testCaseNumber": 86
+        },
+        {
+            "character": "す",
+            "testCaseNumber": 87
+        },
+        {
+            "character": "ず",
+            "testCaseNumber": 88
+        },
+        {
+            "character": "せ",
+            "testCaseNumber": 89
+        },
+        {
+            "character": "ぜ",
+            "testCaseNumber": 90
+        },
+        {
+            "character": "そ",
+            "testCaseNumber": 91
+        },
+        {
+            "character": "ぞ",
+            "testCaseNumber": 92
+        },
+        {
+            "character": "た",
+            "testCaseNumber": 93
+        },
+        {
+            "character": "だ",
+            "testCaseNumber": 94
+        },
+        {
+            "character": "ち",
+            "testCaseNumber": 95
+        },
+        {
+            "character": "ぢ",
+            "testCaseNumber": 96
+        },
+        {
+            "character": "っ",
+            "testCaseNumber": 97
+        },
+        {
+            "character": "つ",
+            "testCaseNumber": 98
+        },
+        {
+            "character": "づ",
+            "testCaseNumber": 99
+        },
+        {
+            "character": "て",
+            "testCaseNumber": 100
+        },
+        {
+            "character": "で",
+            "testCaseNumber": 101
+        },
+        {
+            "character": "と",
+            "testCaseNumber": 102
+        },
+        {
+            "character": "ど",
+            "testCaseNumber": 103
+        },
+        {
+            "character": "な",
+            "testCaseNumber": 104
+        },
+        {
+            "character": "に",
+            "testCaseNumber": 105
+        },
+        {
+            "character": "ぬ",
+            "testCaseNumber": 106
+        },
+        {
+            "character": "ね",
+            "testCaseNumber": 107
+        },
+        {
+            "character": "の",
+            "testCaseNumber": 108
+        },
+        {
+            "character": "は",
+            "testCaseNumber": 109
+        },
+        {
+            "character": "ば",
+            "testCaseNumber": 110
+        },
+        {
+            "character": "ぱ",
+            "testCaseNumber": 111
+        },
+        {
+            "character": "ひ",
+            "testCaseNumber": 112
+        },
+        {
+            "character": "び",
+            "testCaseNumber": 113
+        },
+        {
+            "character": "ぴ",
+            "testCaseNumber": 114
+        },
+        {
+            "character": "ふ",
+            "testCaseNumber": 115
+        },
+        {
+            "character": "ぶ",
+            "testCaseNumber": 116
+        },
+        {
+            "character": "ぷ",
+            "testCaseNumber": 117
+        },
+        {
+            "character": "へ",
+            "testCaseNumber": 118
+        },
+        {
+            "character": "べ",
+            "testCaseNumber": 119
+        },
+        {
+            "character": "ぺ",
+            "testCaseNumber": 120
+        },
+        {
+            "character": "ほ",
+            "testCaseNumber": 121
+        },
+        {
+            "character": "ぼ",
+            "testCaseNumber": 122
+        },
+        {
+            "character": "ぽ",
+            "testCaseNumber": 123
+        },
+        {
+            "character": "ま",
+            "testCaseNumber": 124
+        },
+        {
+            "character": "み",
+            "testCaseNumber": 125
+        },
+        {
+            "character": "む",
+            "testCaseNumber": 126
+        },
+        {
+            "character": "め",
+            "testCaseNumber": 127
+        },
+        {
+            "character": "も",
+            "testCaseNumber": 128
+        },
+        {
+            "character": "ゃ",
+            "testCaseNumber": 129
+        },
+        {
+            "character": "や",
+            "testCaseNumber": 130
+        },
+        {
+            "character": "ゅ",
+            "testCaseNumber": 131
+        },
+        {
+            "character": "ゆ",
+            "testCaseNumber": 132
+        },
+        {
+            "character": "ょ",
+            "testCaseNumber": 133
+        },
+        {
+            "character": "よ",
+            "testCaseNumber": 134
+        },
+        {
+            "character": "ら",
+            "testCaseNumber": 135
+        },
+        {
+            "character": "り",
+            "testCaseNumber": 136
+        },
+        {
+            "character": "る",
+            "testCaseNumber": 137
+        },
+        {
+            "character": "れ",
+            "testCaseNumber": 138
+        },
+        {
+            "character": "ろ",
+            "testCaseNumber": 139
+        },
+        {
+            "character": "ゎ",
+            "testCaseNumber": 140
+        },
+        {
+            "character": "わ",
+            "testCaseNumber": 141
+        },
+        {
+            "character": "ゐ",
+            "testCaseNumber": 142
+        },
+        {
+            "character": "ゑ",
+            "testCaseNumber": 143
+        },
+        {
+            "character": "を",
+            "testCaseNumber": 144
+        },
+        {
+            "character": "ん",
+            "testCaseNumber": 145
+        },
+        {
+            "character": "ゔ",
+            "testCaseNumber": 146
+        },
+        {
+            "character": "ゕ",
+            "testCaseNumber": 147
+        },
+        {
+            "character": "ゖ",
+            "testCaseNumber": 148
+        },
+        {
+            "character": "゗",
+            "testCaseNumber": 149
+        },
+        {
+            "character": "゘",
+            "testCaseNumber": 150
+        },
+        {
+            "character": "゙",
+            "testCaseNumber": 151
+        },
+        {
+            "character": "゚",
+            "testCaseNumber": 152
+        },
+        {
+            "character": "゛",
+            "testCaseNumber": 153
+        },
+        {
+            "character": "゜",
+            "testCaseNumber": 154
+        },
+        {
+            "character": "ゝ",
+            "testCaseNumber": 155
+        },
+        {
+            "character": "ゞ",
+            "testCaseNumber": 156
+        },
+        {
+            "character": "゠",
+            "testCaseNumber": 157
+        },
+        {
+            "character": "ァ",
+            "testCaseNumber": 158
+        },
+        {
+            "character": "ア",
+            "testCaseNumber": 159
+        },
+        {
+            "character": "ィ",
+            "testCaseNumber": 160
+        },
+        {
+            "character": "イ",
+            "testCaseNumber": 161
+        },
+        {
+            "character": "ゥ",
+            "testCaseNumber": 162
+        },
+        {
+            "character": "ウ",
+            "testCaseNumber": 163
+        },
+        {
+            "character": "ェ",
+            "testCaseNumber": 164
+        },
+        {
+            "character": "エ",
+            "testCaseNumber": 165
+        },
+        {
+            "character": "ォ",
+            "testCaseNumber": 166
+        },
+        {
+            "character": "オ",
+            "testCaseNumber": 167
+        },
+        {
+            "character": "カ",
+            "testCaseNumber": 168
+        },
+        {
+            "character": "ガ",
+            "testCaseNumber": 169
+        },
+        {
+            "character": "キ",
+            "testCaseNumber": 170
+        },
+        {
+            "character": "ギ",
+            "testCaseNumber": 171
+        },
+        {
+            "character": "ク",
+            "testCaseNumber": 172
+        },
+        {
+            "character": "グ",
+            "testCaseNumber": 173
+        },
+        {
+            "character": "ケ",
+            "testCaseNumber": 174
+        },
+        {
+            "character": "ゲ",
+            "testCaseNumber": 175
+        },
+        {
+            "character": "コ",
+            "testCaseNumber": 176
+        },
+        {
+            "character": "ゴ",
+            "testCaseNumber": 177
+        },
+        {
+            "character": "サ",
+            "testCaseNumber": 178
+        },
+        {
+            "character": "ザ",
+            "testCaseNumber": 179
+        },
+        {
+            "character": "シ",
+            "testCaseNumber": 180
+        },
+        {
+            "character": "ジ",
+            "testCaseNumber": 181
+        },
+        {
+            "character": "ス",
+            "testCaseNumber": 182
+        },
+        {
+            "character": "ズ",
+            "testCaseNumber": 183
+        },
+        {
+            "character": "セ",
+            "testCaseNumber": 184
+        },
+        {
+            "character": "ゼ",
+            "testCaseNumber": 185
+        },
+        {
+            "character": "ソ",
+            "testCaseNumber": 186
+        },
+        {
+            "character": "ゾ",
+            "testCaseNumber": 187
+        },
+        {
+            "character": "タ",
+            "testCaseNumber": 188
+        },
+        {
+            "character": "ダ",
+            "testCaseNumber": 189
+        },
+        {
+            "character": "チ",
+            "testCaseNumber": 190
+        },
+        {
+            "character": "ヂ",
+            "testCaseNumber": 191
+        },
+        {
+            "character": "ッ",
+            "testCaseNumber": 192
+        },
+        {
+            "character": "ツ",
+            "testCaseNumber": 193
+        },
+        {
+            "character": "ヅ",
+            "testCaseNumber": 194
+        },
+        {
+            "character": "テ",
+            "testCaseNumber": 195
+        },
+        {
+            "character": "デ",
+            "testCaseNumber": 196
+        },
+        {
+            "character": "ト",
+            "testCaseNumber": 197
+        },
+        {
+            "character": "ド",
+            "testCaseNumber": 198
+        },
+        {
+            "character": "ナ",
+            "testCaseNumber": 199
+        },
+        {
+            "character": "ニ",
+            "testCaseNumber": 200
+        },
+        {
+            "character": "ヌ",
+            "testCaseNumber": 201
+        },
+        {
+            "character": "ネ",
+            "testCaseNumber": 202
+        },
+        {
+            "character": "ノ",
+            "testCaseNumber": 203
+        },
+        {
+            "character": "ハ",
+            "testCaseNumber": 204
+        },
+        {
+            "character": "バ",
+            "testCaseNumber": 205
+        },
+        {
+            "character": "パ",
+            "testCaseNumber": 206
+        },
+        {
+            "character": "ヒ",
+            "testCaseNumber": 207
+        },
+        {
+            "character": "ビ",
+            "testCaseNumber": 208
+        },
+        {
+            "character": "ピ",
+            "testCaseNumber": 209
+        },
+        {
+            "character": "フ",
+            "testCaseNumber": 210
+        },
+        {
+            "character": "ブ",
+            "testCaseNumber": 211
+        },
+        {
+            "character": "プ",
+            "testCaseNumber": 212
+        },
+        {
+            "character": "ヘ",
+            "testCaseNumber": 213
+        },
+        {
+            "character": "ベ",
+            "testCaseNumber": 214
+        },
+        {
+            "character": "ペ",
+            "testCaseNumber": 215
+        },
+        {
+            "character": "ホ",
+            "testCaseNumber": 216
+        },
+        {
+            "character": "ボ",
+            "testCaseNumber": 217
+        },
+        {
+            "character": "ポ",
+            "testCaseNumber": 218
+        },
+        {
+            "character": "マ",
+            "testCaseNumber": 219
+        },
+        {
+            "character": "ミ",
+            "testCaseNumber": 220
+        },
+        {
+            "character": "ム",
+            "testCaseNumber": 221
+        },
+        {
+            "character": "メ",
+            "testCaseNumber": 222
+        },
+        {
+            "character": "モ",
+            "testCaseNumber": 223
+        },
+        {
+            "character": "ャ",
+            "testCaseNumber": 224
+        },
+        {
+            "character": "ヤ",
+            "testCaseNumber": 225
+        },
+        {
+            "character": "ュ",
+            "testCaseNumber": 226
+        },
+        {
+            "character": "ユ",
+            "testCaseNumber": 227
+        },
+        {
+            "character": "ョ",
+            "testCaseNumber": 228
+        },
+        {
+            "character": "ヨ",
+            "testCaseNumber": 229
+        },
+        {
+            "character": "ラ",
+            "testCaseNumber": 230
+        },
+        {
+            "character": "リ",
+            "testCaseNumber": 231
+        },
+        {
+            "character": "ル",
+            "testCaseNumber": 232
+        },
+        {
+            "character": "レ",
+            "testCaseNumber": 233
+        },
+        {
+            "character": "ロ",
+            "testCaseNumber": 234
+        },
+        {
+            "character": "ヮ",
+            "testCaseNumber": 235
+        },
+        {
+            "character": "ワ",
+            "testCaseNumber": 236
+        },
+        {
+            "character": "ヰ",
+            "testCaseNumber": 237
+        },
+        {
+            "character": "ヱ",
+            "testCaseNumber": 238
+        },
+        {
+            "character": "ヲ",
+            "testCaseNumber": 239
+        },
+        {
+            "character": "ン",
+            "testCaseNumber": 240
+        },
+        {
+            "character": "ヴ",
+            "testCaseNumber": 241
+        },
+        {
+            "character": "ヵ",
+            "testCaseNumber": 242
+        },
+        {
+            "character": "ヶ",
+            "testCaseNumber": 243
+        },
+        {
+            "character": "ヷ",
+            "testCaseNumber": 244
+        },
+        {
+            "character": "ヸ",
+            "testCaseNumber": 245
+        },
+        {
+            "character": "ヹ",
+            "testCaseNumber": 246
+        },
+        {
+            "character": "ヺ",
+            "testCaseNumber": 247
+        },
+        {
+            "character": "・",
+            "testCaseNumber": 248
+        },
+        {
+            "character": "ー",
+            "testCaseNumber": 249
+        },
+        {
+            "character": "ヽ",
+            "testCaseNumber": 250
+        },
+        {
+            "character": "ヾ",
+            "testCaseNumber": 251
+        },
+        {
+            "character": "一",
+            "testCaseNumber": 252
+        },
+        {
+            "character": "丁",
+            "testCaseNumber": 253
+        },
+        {
+            "character": "丂",
+            "testCaseNumber": 254
+        },
+        {
+            "character": "七",
+            "testCaseNumber": 255
+        },
+        {
+            "character": "丄",
+            "testCaseNumber": 256
+        },
+        {
+            "character": "丅",
+            "testCaseNumber": 257
+        },
+        {
+            "character": "丆",
+            "testCaseNumber": 258
+        },
+        {
+            "character": "万",
+            "testCaseNumber": 259
+        },
+        {
+            "character": "丈",
+            "testCaseNumber": 260
+        },
+        {
+            "character": "三",
+            "testCaseNumber": 261
+        },
+        {
+            "character": "上",
+            "testCaseNumber": 262
+        },
+        {
+            "character": "下",
+            "testCaseNumber": 263
+        },
+        {
+            "character": "丌",
+            "testCaseNumber": 264
+        },
+        {
+            "character": "不",
+            "testCaseNumber": 265
+        },
+        {
+            "character": "与",
+            "testCaseNumber": 266
+        },
+        {
+            "character": "丏",
+            "testCaseNumber": 267
+        },
+        {
+            "character": "丐",
+            "testCaseNumber": 268
+        },
+        {
+            "character": "丑",
+            "testCaseNumber": 269
+        },
+        {
+            "character": "丒",
+            "testCaseNumber": 270
+        },
+        {
+            "character": "专",
+            "testCaseNumber": 271
+        },
+        {
+            "character": "且",
+            "testCaseNumber": 272
+        },
+        {
+            "character": "丕",
+            "testCaseNumber": 273
+        },
+        {
+            "character": "世",
+            "testCaseNumber": 274
+        },
+        {
+            "character": "丗",
+            "testCaseNumber": 275
+        },
+        {
+            "character": "丘",
+            "testCaseNumber": 276
+        },
+        {
+            "character": "丙",
+            "testCaseNumber": 277
+        },
+        {
+            "character": "业",
+            "testCaseNumber": 278
+        },
+        {
+            "character": "丛",
+            "testCaseNumber": 279
+        },
+        {
+            "character": "东",
+            "testCaseNumber": 280
+        },
+        {
+            "character": "丝",
+            "testCaseNumber": 281
+        },
+        {
+            "character": "丞",
+            "testCaseNumber": 282
+        },
+        {
+            "character": "丟",
+            "testCaseNumber": 283
+        },
+        {
+            "character": "丠",
+            "testCaseNumber": 284
+        },
+        {
+            "character": "両",
+            "testCaseNumber": 285
+        },
+        {
+            "character": "丢",
+            "testCaseNumber": 286
+        },
+        {
+            "character": "丣",
+            "testCaseNumber": 287
+        },
+        {
+            "character": "两",
+            "testCaseNumber": 288
+        },
+        {
+            "character": "严",
+            "testCaseNumber": 289
+        },
+        {
+            "character": "並",
+            "testCaseNumber": 290
+        },
+        {
+            "character": "丧",
+            "testCaseNumber": 291
+        },
+        {
+            "character": "丨",
+            "testCaseNumber": 292
+        },
+        {
+            "character": "丩",
+            "testCaseNumber": 293
+        },
+        {
+            "character": "个",
+            "testCaseNumber": 294
+        },
+        {
+            "character": "丫",
+            "testCaseNumber": 295
+        },
+        {
+            "character": "丬",
+            "testCaseNumber": 296
+        },
+        {
+            "character": "中",
+            "testCaseNumber": 297
+        },
+        {
+            "character": "丮",
+            "testCaseNumber": 298
+        },
+        {
+            "character": "丯",
+            "testCaseNumber": 299
+        },
+        {
+            "character": "丰",
+            "testCaseNumber": 300
+        },
+        {
+            "character": "丱",
+            "testCaseNumber": 301
+        },
+        {
+            "character": "串",
+            "testCaseNumber": 302
+        },
+        {
+            "character": "丳",
+            "testCaseNumber": 303
+        },
+        {
+            "character": "临",
+            "testCaseNumber": 304
+        },
+        {
+            "character": "丵",
+            "testCaseNumber": 305
+        },
+        {
+            "character": "丶",
+            "testCaseNumber": 306
+        },
+        {
+            "character": "丷",
+            "testCaseNumber": 307
+        },
+        {
+            "character": "丸",
+            "testCaseNumber": 308
+        },
+        {
+            "character": "丹",
+            "testCaseNumber": 309
+        },
+        {
+            "character": "为",
+            "testCaseNumber": 310
+        },
+        {
+            "character": "主",
+            "testCaseNumber": 311
+        },
+        {
+            "character": "丼",
+            "testCaseNumber": 312
+        },
+        {
+            "character": "丽",
+            "testCaseNumber": 313
+        },
+        {
+            "character": "举",
+            "testCaseNumber": 314
+        },
+        {
+            "character": "丿",
+            "testCaseNumber": 315
+        },
+        {
+            "character": "乀",
+            "testCaseNumber": 316
+        },
+        {
+            "character": "乁",
+            "testCaseNumber": 317
+        },
+        {
+            "character": "乂",
+            "testCaseNumber": 318
+        },
+        {
+            "character": "乃",
+            "testCaseNumber": 319
+        },
+        {
+            "character": "乄",
+            "testCaseNumber": 320
+        },
+        {
+            "character": "久",
+            "testCaseNumber": 321
+        },
+        {
+            "character": "乆",
+            "testCaseNumber": 322
+        },
+        {
+            "character": "乇",
+            "testCaseNumber": 323
+        },
+        {
+            "character": "么",
+            "testCaseNumber": 324
+        },
+        {
+            "character": "义",
+            "testCaseNumber": 325
+        },
+        {
+            "character": "乊",
+            "testCaseNumber": 326
+        },
+        {
+            "character": "之",
+            "testCaseNumber": 327
+        },
+        {
+            "character": "乌",
+            "testCaseNumber": 328
+        },
+        {
+            "character": "乍",
+            "testCaseNumber": 329
+        },
+        {
+            "character": "乎",
+            "testCaseNumber": 330
+        },
+        {
+            "character": "乏",
+            "testCaseNumber": 331
+        },
+        {
+            "character": "乐",
+            "testCaseNumber": 332
+        },
+        {
+            "character": "乑",
+            "testCaseNumber": 333
+        },
+        {
+            "character": "乒",
+            "testCaseNumber": 334
+        },
+        {
+            "character": "乓",
+            "testCaseNumber": 335
+        },
+        {
+            "character": "乔",
+            "testCaseNumber": 336
+        },
+        {
+            "character": "乕",
+            "testCaseNumber": 337
+        },
+        {
+            "character": "乖",
+            "testCaseNumber": 338
+        },
+        {
+            "character": "乗",
+            "testCaseNumber": 339
+        },
+        {
+            "character": "乘",
+            "testCaseNumber": 340
+        },
+        {
+            "character": "乙",
+            "testCaseNumber": 341
+        },
+        {
+            "character": "乚",
+            "testCaseNumber": 342
+        },
+        {
+            "character": "乛",
+            "testCaseNumber": 343
+        },
+        {
+            "character": "乜",
+            "testCaseNumber": 344
+        },
+        {
+            "character": "九",
+            "testCaseNumber": 345
+        },
+        {
+            "character": "乞",
+            "testCaseNumber": 346
+        },
+        {
+            "character": "也",
+            "testCaseNumber": 347
+        },
+        {
+            "character": "习",
+            "testCaseNumber": 348
+        },
+        {
+            "character": "乡",
+            "testCaseNumber": 349
+        },
+        {
+            "character": "乢",
+            "testCaseNumber": 350
+        },
+        {
+            "character": "乣",
+            "testCaseNumber": 351
+        },
+        {
+            "character": "乤",
+            "testCaseNumber": 352
+        },
+        {
+            "character": "乥",
+            "testCaseNumber": 353
+        },
+        {
+            "character": "书",
+            "testCaseNumber": 354
+        },
+        {
+            "character": "乧",
+            "testCaseNumber": 355
+        },
+        {
+            "character": "乨",
+            "testCaseNumber": 356
+        },
+        {
+            "character": "乩",
+            "testCaseNumber": 357
+        },
+        {
+            "character": "乪",
+            "testCaseNumber": 358
+        },
+        {
+            "character": "乫",
+            "testCaseNumber": 359
+        },
+        {
+            "character": "乬",
+            "testCaseNumber": 360
+        },
+        {
+            "character": "乭",
+            "testCaseNumber": 361
+        },
+        {
+            "character": "乮",
+            "testCaseNumber": 362
+        },
+        {
+            "character": "乯",
+            "testCaseNumber": 363
+        },
+        {
+            "character": "买",
+            "testCaseNumber": 364
+        },
+        {
+            "character": "乱",
+            "testCaseNumber": 365
+        },
+        {
+            "character": "乲",
+            "testCaseNumber": 366
+        },
+        {
+            "character": "乳",
+            "testCaseNumber": 367
+        },
+        {
+            "character": "乴",
+            "testCaseNumber": 368
+        },
+        {
+            "character": "乵",
+            "testCaseNumber": 369
+        },
+        {
+            "character": "乶",
+            "testCaseNumber": 370
+        },
+        {
+            "character": "乷",
+            "testCaseNumber": 371
+        },
+        {
+            "character": "乸",
+            "testCaseNumber": 372
+        },
+        {
+            "character": "乹",
+            "testCaseNumber": 373
+        },
+        {
+            "character": "乺",
+            "testCaseNumber": 374
+        },
+        {
+            "character": "乻",
+            "testCaseNumber": 375
+        },
+        {
+            "character": "乼",
+            "testCaseNumber": 376
+        },
+        {
+            "character": "乽",
+            "testCaseNumber": 377
+        },
+        {
+            "character": "乾",
+            "testCaseNumber": 378
+        },
+        {
+            "character": "乿",
+            "testCaseNumber": 379
+        },
+        {
+            "character": "亀",
+            "testCaseNumber": 380
+        },
+        {
+            "character": "亁",
+            "testCaseNumber": 381
+        },
+        {
+            "character": "亂",
+            "testCaseNumber": 382
+        },
+        {
+            "character": "亃",
+            "testCaseNumber": 383
+        },
+        {
+            "character": "亄",
+            "testCaseNumber": 384
+        },
+        {
+            "character": "亅",
+            "testCaseNumber": 385
+        },
+        {
+            "character": "了",
+            "testCaseNumber": 386
+        },
+        {
+            "character": "亇",
+            "testCaseNumber": 387
+        },
+        {
+            "character": "予",
+            "testCaseNumber": 388
+        },
+        {
+            "character": "争",
+            "testCaseNumber": 389
+        },
+        {
+            "character": "亊",
+            "testCaseNumber": 390
+        },
+        {
+            "character": "事",
+            "testCaseNumber": 391
+        },
+        {
+            "character": "二",
+            "testCaseNumber": 392
+        },
+        {
+            "character": "亍",
+            "testCaseNumber": 393
+        },
+        {
+            "character": "于",
+            "testCaseNumber": 394
+        },
+        {
+            "character": "亏",
+            "testCaseNumber": 395
+        },
+        {
+            "character": "亐",
+            "testCaseNumber": 396
+        },
+        {
+            "character": "云",
+            "testCaseNumber": 397
+        },
+        {
+            "character": "互",
+            "testCaseNumber": 398
+        },
+        {
+            "character": "亓",
+            "testCaseNumber": 399
+        },
+        {
+            "character": "五",
+            "testCaseNumber": 400
+        },
+        {
+            "character": "井",
+            "testCaseNumber": 401
+        },
+        {
+            "character": "亖",
+            "testCaseNumber": 402
+        },
+        {
+            "character": "亗",
+            "testCaseNumber": 403
+        },
+        {
+            "character": "亘",
+            "testCaseNumber": 404
+        },
+        {
+            "character": "亙",
+            "testCaseNumber": 405
+        },
+        {
+            "character": "亚",
+            "testCaseNumber": 406
+        },
+        {
+            "character": "些",
+            "testCaseNumber": 407
+        },
+        {
+            "character": "亜",
+            "testCaseNumber": 408
+        },
+        {
+            "character": "亝",
+            "testCaseNumber": 409
+        },
+        {
+            "character": "亞",
+            "testCaseNumber": 410
+        },
+        {
+            "character": "亟",
+            "testCaseNumber": 411
+        },
+        {
+            "character": "亠",
+            "testCaseNumber": 412
+        },
+        {
+            "character": "亡",
+            "testCaseNumber": 413
+        },
+        {
+            "character": "亢",
+            "testCaseNumber": 414
+        },
+        {
+            "character": "亣",
+            "testCaseNumber": 415
+        },
+        {
+            "character": "交",
+            "testCaseNumber": 416
+        },
+        {
+            "character": "亥",
+            "testCaseNumber": 417
+        },
+        {
+            "character": "亦",
+            "testCaseNumber": 418
+        },
+        {
+            "character": "产",
+            "testCaseNumber": 419
+        },
+        {
+            "character": "亨",
+            "testCaseNumber": 420
+        },
+        {
+            "character": "亩",
+            "testCaseNumber": 421
+        },
+        {
+            "character": "亪",
+            "testCaseNumber": 422
+        },
+        {
+            "character": "享",
+            "testCaseNumber": 423
+        },
+        {
+            "character": "京",
+            "testCaseNumber": 424
+        },
+        {
+            "character": "亭",
+            "testCaseNumber": 425
+        },
+        {
+            "character": "亮",
+            "testCaseNumber": 426
+        },
+        {
+            "character": "亯",
+            "testCaseNumber": 427
+        },
+        {
+            "character": "亰",
+            "testCaseNumber": 428
+        },
+        {
+            "character": "亱",
+            "testCaseNumber": 429
+        },
+        {
+            "character": "亲",
+            "testCaseNumber": 430
+        },
+        {
+            "character": "亳",
+            "testCaseNumber": 431
+        },
+        {
+            "character": "亴",
+            "testCaseNumber": 432
+        },
+        {
+            "character": "亵",
+            "testCaseNumber": 433
+        },
+        {
+            "character": "亶",
+            "testCaseNumber": 434
+        },
+        {
+            "character": "亷",
+            "testCaseNumber": 435
+        },
+        {
+            "character": "亸",
+            "testCaseNumber": 436
+        },
+        {
+            "character": "亹",
+            "testCaseNumber": 437
+        },
+        {
+            "character": "人",
+            "testCaseNumber": 438
+        },
+        {
+            "character": "亻",
+            "testCaseNumber": 439
+        },
+        {
+            "character": "亼",
+            "testCaseNumber": 440
+        },
+        {
+            "character": "亽",
+            "testCaseNumber": 441
+        },
+        {
+            "character": "亾",
+            "testCaseNumber": 442
+        },
+        {
+            "character": "亿",
+            "testCaseNumber": 443
+        },
+        {
+            "character": "什",
+            "testCaseNumber": 444
+        },
+        {
+            "character": "仁",
+            "testCaseNumber": 445
+        },
+        {
+            "character": "仂",
+            "testCaseNumber": 446
+        },
+        {
+            "character": "仃",
+            "testCaseNumber": 447
+        },
+        {
+            "character": "仄",
+            "testCaseNumber": 448
+        },
+        {
+            "character": "仅",
+            "testCaseNumber": 449
+        },
+        {
+            "character": "仆",
+            "testCaseNumber": 450
+        },
+        {
+            "character": "仇",
+            "testCaseNumber": 451
+        },
+        {
+            "character": "仈",
+            "testCaseNumber": 452
+        },
+        {
+            "character": "仉",
+            "testCaseNumber": 453
+        },
+        {
+            "character": "今",
+            "testCaseNumber": 454
+        },
+        {
+            "character": "介",
+            "testCaseNumber": 455
+        },
+        {
+            "character": "仌",
+            "testCaseNumber": 456
+        },
+        {
+            "character": "仍",
+            "testCaseNumber": 457
+        },
+        {
+            "character": "从",
+            "testCaseNumber": 458
+        },
+        {
+            "character": "仏",
+            "testCaseNumber": 459
+        },
+        {
+            "character": "仐",
+            "testCaseNumber": 460
+        },
+        {
+            "character": "仑",
+            "testCaseNumber": 461
+        },
+        {
+            "character": "仒",
+            "testCaseNumber": 462
+        },
+        {
+            "character": "仓",
+            "testCaseNumber": 463
+        },
+        {
+            "character": "仔",
+            "testCaseNumber": 464
+        },
+        {
+            "character": "仕",
+            "testCaseNumber": 465
+        },
+        {
+            "character": "他",
+            "testCaseNumber": 466
+        },
+        {
+            "character": "仗",
+            "testCaseNumber": 467
+        },
+        {
+            "character": "付",
+            "testCaseNumber": 468
+        },
+        {
+            "character": "仙",
+            "testCaseNumber": 469
+        },
+        {
+            "character": "仚",
+            "testCaseNumber": 470
+        },
+        {
+            "character": "仛",
+            "testCaseNumber": 471
+        },
+        {
+            "character": "仜",
+            "testCaseNumber": 472
+        },
+        {
+            "character": "仝",
+            "testCaseNumber": 473
+        },
+        {
+            "character": "仞",
+            "testCaseNumber": 474
+        },
+        {
+            "character": "仟",
+            "testCaseNumber": 475
+        },
+        {
+            "character": "仠",
+            "testCaseNumber": 476
+        },
+        {
+            "character": "仡",
+            "testCaseNumber": 477
+        },
+        {
+            "character": "仢",
+            "testCaseNumber": 478
+        },
+        {
+            "character": "代",
+            "testCaseNumber": 479
+        },
+        {
+            "character": "令",
+            "testCaseNumber": 480
+        },
+        {
+            "character": "以",
+            "testCaseNumber": 481
+        },
+        {
+            "character": "仦",
+            "testCaseNumber": 482
+        },
+        {
+            "character": "仧",
+            "testCaseNumber": 483
+        },
+        {
+            "character": "仨",
+            "testCaseNumber": 484
+        },
+        {
+            "character": "仩",
+            "testCaseNumber": 485
+        },
+        {
+            "character": "仪",
+            "testCaseNumber": 486
+        },
+        {
+            "character": "仫",
+            "testCaseNumber": 487
+        },
+        {
+            "character": "们",
+            "testCaseNumber": 488
+        },
+        {
+            "character": "仭",
+            "testCaseNumber": 489
+        },
+        {
+            "character": "仮",
+            "testCaseNumber": 490
+        },
+        {
+            "character": "仯",
+            "testCaseNumber": 491
+        },
+        {
+            "character": "仰",
+            "testCaseNumber": 492
+        },
+        {
+            "character": "仱",
+            "testCaseNumber": 493
+        },
+        {
+            "character": "仲",
+            "testCaseNumber": 494
+        },
+        {
+            "character": "仳",
+            "testCaseNumber": 495
+        },
+        {
+            "character": "仴",
+            "testCaseNumber": 496
+        },
+        {
+            "character": "仵",
+            "testCaseNumber": 497
+        },
+        {
+            "character": "件",
+            "testCaseNumber": 498
+        },
+        {
+            "character": "价",
+            "testCaseNumber": 499
+        },
+        {
+            "character": "仸",
+            "testCaseNumber": 500
+        },
+        {
+            "character": "仹",
+            "testCaseNumber": 501
+        },
+        {
+            "character": "仺",
+            "testCaseNumber": 502
+        },
+        {
+            "character": "任",
+            "testCaseNumber": 503
+        },
+        {
+            "character": "仼",
+            "testCaseNumber": 504
+        },
+        {
+            "character": "份",
+            "testCaseNumber": 505
+        },
+        {
+            "character": "仾",
+            "testCaseNumber": 506
+        },
+        {
+            "character": "仿",
+            "testCaseNumber": 507
+        },
+        {
+            "character": "伀",
+            "testCaseNumber": 508
+        },
+        {
+            "character": "企",
+            "testCaseNumber": 509
+        },
+        {
+            "character": "伂",
+            "testCaseNumber": 510
+        },
+        {
+            "character": "伃",
+            "testCaseNumber": 511
+        },
+        {
+            "character": "伄",
+            "testCaseNumber": 512
+        },
+        {
+            "character": "伅",
+            "testCaseNumber": 513
+        },
+        {
+            "character": "伆",
+            "testCaseNumber": 514
+        },
+        {
+            "character": "伇",
+            "testCaseNumber": 515
+        },
+        {
+            "character": "伈",
+            "testCaseNumber": 516
+        },
+        {
+            "character": "伉",
+            "testCaseNumber": 517
+        },
+        {
+            "character": "伊",
+            "testCaseNumber": 518
+        },
+        {
+            "character": "伋",
+            "testCaseNumber": 519
+        },
+        {
+            "character": "伌",
+            "testCaseNumber": 520
+        },
+        {
+            "character": "伍",
+            "testCaseNumber": 521
+        },
+        {
+            "character": "伎",
+            "testCaseNumber": 522
+        },
+        {
+            "character": "伏",
+            "testCaseNumber": 523
+        },
+        {
+            "character": "伐",
+            "testCaseNumber": 524
+        },
+        {
+            "character": "休",
+            "testCaseNumber": 525
+        },
+        {
+            "character": "伒",
+            "testCaseNumber": 526
+        },
+        {
+            "character": "伓",
+            "testCaseNumber": 527
+        },
+        {
+            "character": "伔",
+            "testCaseNumber": 528
+        },
+        {
+            "character": "伕",
+            "testCaseNumber": 529
+        },
+        {
+            "character": "伖",
+            "testCaseNumber": 530
+        },
+        {
+            "character": "众",
+            "testCaseNumber": 531
+        },
+        {
+            "character": "优",
+            "testCaseNumber": 532
+        },
+        {
+            "character": "伙",
+            "testCaseNumber": 533
+        },
+        {
+            "character": "会",
+            "testCaseNumber": 534
+        },
+        {
+            "character": "伛",
+            "testCaseNumber": 535
+        },
+        {
+            "character": "伜",
+            "testCaseNumber": 536
+        },
+        {
+            "character": "伝",
+            "testCaseNumber": 537
+        },
+        {
+            "character": "伞",
+            "testCaseNumber": 538
+        },
+        {
+            "character": "伟",
+            "testCaseNumber": 539
+        },
+        {
+            "character": "传",
+            "testCaseNumber": 540
+        },
+        {
+            "character": "伡",
+            "testCaseNumber": 541
+        },
+        {
+            "character": "伢",
+            "testCaseNumber": 542
+        },
+        {
+            "character": "伣",
+            "testCaseNumber": 543
+        },
+        {
+            "character": "伤",
+            "testCaseNumber": 544
+        },
+        {
+            "character": "伥",
+            "testCaseNumber": 545
+        },
+        {
+            "character": "伦",
+            "testCaseNumber": 546
+        },
+        {
+            "character": "伧",
+            "testCaseNumber": 547
+        },
+        {
+            "character": "伨",
+            "testCaseNumber": 548
+        },
+        {
+            "character": "伩",
+            "testCaseNumber": 549
+        },
+        {
+            "character": "伪",
+            "testCaseNumber": 550
+        },
+        {
+            "character": "伫",
+            "testCaseNumber": 551
+        },
+        {
+            "character": "伬",
+            "testCaseNumber": 552
+        },
+        {
+            "character": "伭",
+            "testCaseNumber": 553
+        },
+        {
+            "character": "伮",
+            "testCaseNumber": 554
+        },
+        {
+            "character": "伯",
+            "testCaseNumber": 555
+        },
+        {
+            "character": "估",
+            "testCaseNumber": 556
+        },
+        {
+            "character": "伱",
+            "testCaseNumber": 557
+        },
+        {
+            "character": "伲",
+            "testCaseNumber": 558
+        },
+        {
+            "character": "伳",
+            "testCaseNumber": 559
+        },
+        {
+            "character": "伴",
+            "testCaseNumber": 560
+        },
+        {
+            "character": "伵",
+            "testCaseNumber": 561
+        },
+        {
+            "character": "伶",
+            "testCaseNumber": 562
+        },
+        {
+            "character": "伷",
+            "testCaseNumber": 563
+        },
+        {
+            "character": "伸",
+            "testCaseNumber": 564
+        },
+        {
+            "character": "伹",
+            "testCaseNumber": 565
+        },
+        {
+            "character": "伺",
+            "testCaseNumber": 566
+        },
+        {
+            "character": "伻",
+            "testCaseNumber": 567
+        },
+        {
+            "character": "似",
+            "testCaseNumber": 568
+        },
+        {
+            "character": "伽",
+            "testCaseNumber": 569
+        },
+        {
+            "character": "伾",
+            "testCaseNumber": 570
+        },
+        {
+            "character": "伿",
+            "testCaseNumber": 571
+        },
+        {
+            "character": "佀",
+            "testCaseNumber": 572
+        },
+        {
+            "character": "佁",
+            "testCaseNumber": 573
+        },
+        {
+            "character": "佂",
+            "testCaseNumber": 574
+        },
+        {
+            "character": "佃",
+            "testCaseNumber": 575
+        },
+        {
+            "character": "佄",
+            "testCaseNumber": 576
+        },
+        {
+            "character": "佅",
+            "testCaseNumber": 577
+        },
+        {
+            "character": "但",
+            "testCaseNumber": 578
+        },
+        {
+            "character": "佇",
+            "testCaseNumber": 579
+        },
+        {
+            "character": "佈",
+            "testCaseNumber": 580
+        },
+        {
+            "character": "佉",
+            "testCaseNumber": 581
+        },
+        {
+            "character": "佊",
+            "testCaseNumber": 582
+        },
+        {
+            "character": "佋",
+            "testCaseNumber": 583
+        },
+        {
+            "character": "佌",
+            "testCaseNumber": 584
+        },
+        {
+            "character": "位",
+            "testCaseNumber": 585
+        },
+        {
+            "character": "低",
+            "testCaseNumber": 586
+        },
+        {
+            "character": "住",
+            "testCaseNumber": 587
+        },
+        {
+            "character": "佐",
+            "testCaseNumber": 588
+        },
+        {
+            "character": "佑",
+            "testCaseNumber": 589
+        },
+        {
+            "character": "佒",
+            "testCaseNumber": 590
+        },
+        {
+            "character": "体",
+            "testCaseNumber": 591
+        },
+        {
+            "character": "佔",
+            "testCaseNumber": 592
+        },
+        {
+            "character": "何",
+            "testCaseNumber": 593
+        },
+        {
+            "character": "佖",
+            "testCaseNumber": 594
+        },
+        {
+            "character": "佗",
+            "testCaseNumber": 595
+        },
+        {
+            "character": "佘",
+            "testCaseNumber": 596
+        },
+        {
+            "character": "余",
+            "testCaseNumber": 597
+        },
+        {
+            "character": "佚",
+            "testCaseNumber": 598
+        },
+        {
+            "character": "佛",
+            "testCaseNumber": 599
+        },
+        {
+            "character": "作",
+            "testCaseNumber": 600
+        },
+        {
+            "character": "佝",
+            "testCaseNumber": 601
+        },
+        {
+            "character": "佞",
+            "testCaseNumber": 602
+        },
+        {
+            "character": "佟",
+            "testCaseNumber": 603
+        },
+        {
+            "character": "你",
+            "testCaseNumber": 604
+        },
+        {
+            "character": "佡",
+            "testCaseNumber": 605
+        },
+        {
+            "character": "佢",
+            "testCaseNumber": 606
+        },
+        {
+            "character": "佣",
+            "testCaseNumber": 607
+        },
+        {
+            "character": "佤",
+            "testCaseNumber": 608
+        },
+        {
+            "character": "佥",
+            "testCaseNumber": 609
+        },
+        {
+            "character": "佦",
+            "testCaseNumber": 610
+        },
+        {
+            "character": "佧",
+            "testCaseNumber": 611
+        },
+        {
+            "character": "佨",
+            "testCaseNumber": 612
+        },
+        {
+            "character": "佩",
+            "testCaseNumber": 613
+        },
+        {
+            "character": "佪",
+            "testCaseNumber": 614
+        },
+        {
+            "character": "佫",
+            "testCaseNumber": 615
+        },
+        {
+            "character": "佬",
+            "testCaseNumber": 616
+        },
+        {
+            "character": "佭",
+            "testCaseNumber": 617
+        },
+        {
+            "character": "佮",
+            "testCaseNumber": 618
+        },
+        {
+            "character": "佯",
+            "testCaseNumber": 619
+        },
+        {
+            "character": "佰",
+            "testCaseNumber": 620
+        },
+        {
+            "character": "佱",
+            "testCaseNumber": 621
+        },
+        {
+            "character": "佲",
+            "testCaseNumber": 622
+        },
+        {
+            "character": "佳",
+            "testCaseNumber": 623
+        },
+        {
+            "character": "佴",
+            "testCaseNumber": 624
+        },
+        {
+            "character": "併",
+            "testCaseNumber": 625
+        },
+        {
+            "character": "佶",
+            "testCaseNumber": 626
+        },
+        {
+            "character": "佷",
+            "testCaseNumber": 627
+        },
+        {
+            "character": "佸",
+            "testCaseNumber": 628
+        },
+        {
+            "character": "佹",
+            "testCaseNumber": 629
+        },
+        {
+            "character": "佺",
+            "testCaseNumber": 630
+        },
+        {
+            "character": "佻",
+            "testCaseNumber": 631
+        },
+        {
+            "character": "佼",
+            "testCaseNumber": 632
+        },
+        {
+            "character": "佽",
+            "testCaseNumber": 633
+        },
+        {
+            "character": "佾",
+            "testCaseNumber": 634
+        },
+        {
+            "character": "使",
+            "testCaseNumber": 635
+        },
+        {
+            "character": "侀",
+            "testCaseNumber": 636
+        },
+        {
+            "character": "侁",
+            "testCaseNumber": 637
+        },
+        {
+            "character": "侂",
+            "testCaseNumber": 638
+        },
+        {
+            "character": "侃",
+            "testCaseNumber": 639
+        },
+        {
+            "character": "侄",
+            "testCaseNumber": 640
+        },
+        {
+            "character": "侅",
+            "testCaseNumber": 641
+        },
+        {
+            "character": "來",
+            "testCaseNumber": 642
+        },
+        {
+            "character": "侇",
+            "testCaseNumber": 643
+        },
+        {
+            "character": "侈",
+            "testCaseNumber": 644
+        },
+        {
+            "character": "侉",
+            "testCaseNumber": 645
+        },
+        {
+            "character": "侊",
+            "testCaseNumber": 646
+        },
+        {
+            "character": "例",
+            "testCaseNumber": 647
+        },
+        {
+            "character": "侌",
+            "testCaseNumber": 648
+        },
+        {
+            "character": "侍",
+            "testCaseNumber": 649
+        },
+        {
+            "character": "侎",
+            "testCaseNumber": 650
+        },
+        {
+            "character": "侏",
+            "testCaseNumber": 651
+        },
+        {
+            "character": "侐",
+            "testCaseNumber": 652
+        },
+        {
+            "character": "侑",
+            "testCaseNumber": 653
+        },
+        {
+            "character": "侒",
+            "testCaseNumber": 654
+        },
+        {
+            "character": "侓",
+            "testCaseNumber": 655
+        },
+        {
+            "character": "侔",
+            "testCaseNumber": 656
+        },
+        {
+            "character": "侕",
+            "testCaseNumber": 657
+        },
+        {
+            "character": "侖",
+            "testCaseNumber": 658
+        },
+        {
+            "character": "侗",
+            "testCaseNumber": 659
+        },
+        {
+            "character": "侘",
+            "testCaseNumber": 660
+        },
+        {
+            "character": "侙",
+            "testCaseNumber": 661
+        },
+        {
+            "character": "侚",
+            "testCaseNumber": 662
+        },
+        {
+            "character": "供",
+            "testCaseNumber": 663
+        },
+        {
+            "character": "侜",
+            "testCaseNumber": 664
+        },
+        {
+            "character": "依",
+            "testCaseNumber": 665
+        },
+        {
+            "character": "侞",
+            "testCaseNumber": 666
+        },
+        {
+            "character": "侟",
+            "testCaseNumber": 667
+        },
+        {
+            "character": "侠",
+            "testCaseNumber": 668
+        },
+        {
+            "character": "価",
+            "testCaseNumber": 669
+        },
+        {
+            "character": "侢",
+            "testCaseNumber": 670
+        },
+        {
+            "character": "侣",
+            "testCaseNumber": 671
+        },
+        {
+            "character": "侤",
+            "testCaseNumber": 672
+        },
+        {
+            "character": "侥",
+            "testCaseNumber": 673
+        },
+        {
+            "character": "侦",
+            "testCaseNumber": 674
+        },
+        {
+            "character": "侧",
+            "testCaseNumber": 675
+        },
+        {
+            "character": "侨",
+            "testCaseNumber": 676
+        },
+        {
+            "character": "侩",
+            "testCaseNumber": 677
+        },
+        {
+            "character": "侪",
+            "testCaseNumber": 678
+        },
+        {
+            "character": "侫",
+            "testCaseNumber": 679
+        },
+        {
+            "character": "侬",
+            "testCaseNumber": 680
+        },
+        {
+            "character": "侭",
+            "testCaseNumber": 681
+        },
+        {
+            "character": "侮",
+            "testCaseNumber": 682
+        },
+        {
+            "character": "侯",
+            "testCaseNumber": 683
+        },
+        {
+            "character": "侰",
+            "testCaseNumber": 684
+        },
+        {
+            "character": "侱",
+            "testCaseNumber": 685
+        },
+        {
+            "character": "侲",
+            "testCaseNumber": 686
+        },
+        {
+            "character": "侳",
+            "testCaseNumber": 687
+        },
+        {
+            "character": "侴",
+            "testCaseNumber": 688
+        },
+        {
+            "character": "侵",
+            "testCaseNumber": 689
+        },
+        {
+            "character": "侶",
+            "testCaseNumber": 690
+        },
+        {
+            "character": "侷",
+            "testCaseNumber": 691
+        },
+        {
+            "character": "侸",
+            "testCaseNumber": 692
+        },
+        {
+            "character": "侹",
+            "testCaseNumber": 693
+        },
+        {
+            "character": "侺",
+            "testCaseNumber": 694
+        },
+        {
+            "character": "侻",
+            "testCaseNumber": 695
+        },
+        {
+            "character": "侼",
+            "testCaseNumber": 696
+        },
+        {
+            "character": "侽",
+            "testCaseNumber": 697
+        },
+        {
+            "character": "侾",
+            "testCaseNumber": 698
+        },
+        {
+            "character": "便",
+            "testCaseNumber": 699
+        },
+        {
+            "character": "俀",
+            "testCaseNumber": 700
+        },
+        {
+            "character": "俁",
+            "testCaseNumber": 701
+        },
+        {
+            "character": "係",
+            "testCaseNumber": 702
+        },
+        {
+            "character": "促",
+            "testCaseNumber": 703
+        },
+        {
+            "character": "俄",
+            "testCaseNumber": 704
+        },
+        {
+            "character": "俅",
+            "testCaseNumber": 705
+        },
+        {
+            "character": "俆",
+            "testCaseNumber": 706
+        },
+        {
+            "character": "俇",
+            "testCaseNumber": 707
+        },
+        {
+            "character": "俈",
+            "testCaseNumber": 708
+        },
+        {
+            "character": "俉",
+            "testCaseNumber": 709
+        },
+        {
+            "character": "俊",
+            "testCaseNumber": 710
+        },
+        {
+            "character": "俋",
+            "testCaseNumber": 711
+        },
+        {
+            "character": "俌",
+            "testCaseNumber": 712
+        },
+        {
+            "character": "俍",
+            "testCaseNumber": 713
+        },
+        {
+            "character": "俎",
+            "testCaseNumber": 714
+        },
+        {
+            "character": "俏",
+            "testCaseNumber": 715
+        },
+        {
+            "character": "俐",
+            "testCaseNumber": 716
+        },
+        {
+            "character": "俑",
+            "testCaseNumber": 717
+        },
+        {
+            "character": "俒",
+            "testCaseNumber": 718
+        },
+        {
+            "character": "俓",
+            "testCaseNumber": 719
+        },
+        {
+            "character": "俔",
+            "testCaseNumber": 720
+        },
+        {
+            "character": "俕",
+            "testCaseNumber": 721
+        },
+        {
+            "character": "俖",
+            "testCaseNumber": 722
+        },
+        {
+            "character": "俗",
+            "testCaseNumber": 723
+        },
+        {
+            "character": "俘",
+            "testCaseNumber": 724
+        },
+        {
+            "character": "俙",
+            "testCaseNumber": 725
+        },
+        {
+            "character": "俚",
+            "testCaseNumber": 726
+        },
+        {
+            "character": "俛",
+            "testCaseNumber": 727
+        },
+        {
+            "character": "俜",
+            "testCaseNumber": 728
+        },
+        {
+            "character": "保",
+            "testCaseNumber": 729
+        },
+        {
+            "character": "俞",
+            "testCaseNumber": 730
+        },
+        {
+            "character": "俟",
+            "testCaseNumber": 731
+        },
+        {
+            "character": "俠",
+            "testCaseNumber": 732
+        },
+        {
+            "character": "信",
+            "testCaseNumber": 733
+        },
+        {
+            "character": "俢",
+            "testCaseNumber": 734
+        },
+        {
+            "character": "俣",
+            "testCaseNumber": 735
+        },
+        {
+            "character": "俤",
+            "testCaseNumber": 736
+        },
+        {
+            "character": "俥",
+            "testCaseNumber": 737
+        },
+        {
+            "character": "俦",
+            "testCaseNumber": 738
+        },
+        {
+            "character": "俧",
+            "testCaseNumber": 739
+        },
+        {
+            "character": "俨",
+            "testCaseNumber": 740
+        },
+        {
+            "character": "俩",
+            "testCaseNumber": 741
+        },
+        {
+            "character": "俪",
+            "testCaseNumber": 742
+        },
+        {
+            "character": "俫",
+            "testCaseNumber": 743
+        },
+        {
+            "character": "俬",
+            "testCaseNumber": 744
+        },
+        {
+            "character": "俭",
+            "testCaseNumber": 745
+        },
+        {
+            "character": "修",
+            "testCaseNumber": 746
+        },
+        {
+            "character": "俯",
+            "testCaseNumber": 747
+        },
+        {
+            "character": "俰",
+            "testCaseNumber": 748
+        },
+        {
+            "character": "俱",
+            "testCaseNumber": 749
+        },
+        {
+            "character": "俲",
+            "testCaseNumber": 750
+        },
+        {
+            "character": "俳",
+            "testCaseNumber": 751
+        },
+        {
+            "character": "俴",
+            "testCaseNumber": 752
+        },
+        {
+            "character": "俵",
+            "testCaseNumber": 753
+        },
+        {
+            "character": "俶",
+            "testCaseNumber": 754
+        },
+        {
+            "character": "俷",
+            "testCaseNumber": 755
+        },
+        {
+            "character": "俸",
+            "testCaseNumber": 756
+        },
+        {
+            "character": "俹",
+            "testCaseNumber": 757
+        },
+        {
+            "character": "俺",
+            "testCaseNumber": 758
+        },
+        {
+            "character": "俻",
+            "testCaseNumber": 759
+        },
+        {
+            "character": "俼",
+            "testCaseNumber": 760
+        },
+        {
+            "character": "俽",
+            "testCaseNumber": 761
+        },
+        {
+            "character": "俾",
+            "testCaseNumber": 762
+        },
+        {
+            "character": "俿",
+            "testCaseNumber": 763
+        },
+        {
+            "character": "倀",
+            "testCaseNumber": 764
+        },
+        {
+            "character": "倁",
+            "testCaseNumber": 765
+        },
+        {
+            "character": "倂",
+            "testCaseNumber": 766
+        },
+        {
+            "character": "倃",
+            "testCaseNumber": 767
+        },
+        {
+            "character": "倄",
+            "testCaseNumber": 768
+        },
+        {
+            "character": "倅",
+            "testCaseNumber": 769
+        },
+        {
+            "character": "倆",
+            "testCaseNumber": 770
+        },
+        {
+            "character": "倇",
+            "testCaseNumber": 771
+        },
+        {
+            "character": "倈",
+            "testCaseNumber": 772
+        },
+        {
+            "character": "倉",
+            "testCaseNumber": 773
+        },
+        {
+            "character": "倊",
+            "testCaseNumber": 774
+        },
+        {
+            "character": "個",
+            "testCaseNumber": 775
+        },
+        {
+            "character": "倌",
+            "testCaseNumber": 776
+        },
+        {
+            "character": "倍",
+            "testCaseNumber": 777
+        },
+        {
+            "character": "倎",
+            "testCaseNumber": 778
+        },
+        {
+            "character": "倏",
+            "testCaseNumber": 779
+        },
+        {
+            "character": "倐",
+            "testCaseNumber": 780
+        },
+        {
+            "character": "們",
+            "testCaseNumber": 781
+        },
+        {
+            "character": "倒",
+            "testCaseNumber": 782
+        },
+        {
+            "character": "倓",
+            "testCaseNumber": 783
+        },
+        {
+            "character": "倔",
+            "testCaseNumber": 784
+        },
+        {
+            "character": "倕",
+            "testCaseNumber": 785
+        },
+        {
+            "character": "倖",
+            "testCaseNumber": 786
+        },
+        {
+            "character": "倗",
+            "testCaseNumber": 787
+        },
+        {
+            "character": "倘",
+            "testCaseNumber": 788
+        },
+        {
+            "character": "候",
+            "testCaseNumber": 789
+        },
+        {
+            "character": "倚",
+            "testCaseNumber": 790
+        },
+        {
+            "character": "倛",
+            "testCaseNumber": 791
+        },
+        {
+            "character": "倜",
+            "testCaseNumber": 792
+        },
+        {
+            "character": "倝",
+            "testCaseNumber": 793
+        },
+        {
+            "character": "倞",
+            "testCaseNumber": 794
+        },
+        {
+            "character": "借",
+            "testCaseNumber": 795
+        },
+        {
+            "character": "倠",
+            "testCaseNumber": 796
+        },
+        {
+            "character": "倡",
+            "testCaseNumber": 797
+        },
+        {
+            "character": "倢",
+            "testCaseNumber": 798
+        },
+        {
+            "character": "倣",
+            "testCaseNumber": 799
+        },
+        {
+            "character": "値",
+            "testCaseNumber": 800
+        },
+        {
+            "character": "倥",
+            "testCaseNumber": 801
+        },
+        {
+            "character": "倦",
+            "testCaseNumber": 802
+        },
+        {
+            "character": "倧",
+            "testCaseNumber": 803
+        },
+        {
+            "character": "倨",
+            "testCaseNumber": 804
+        },
+        {
+            "character": "倩",
+            "testCaseNumber": 805
+        },
+        {
+            "character": "倪",
+            "testCaseNumber": 806
+        },
+        {
+            "character": "倫",
+            "testCaseNumber": 807
+        },
+        {
+            "character": "倬",
+            "testCaseNumber": 808
+        },
+        {
+            "character": "倭",
+            "testCaseNumber": 809
+        },
+        {
+            "character": "倮",
+            "testCaseNumber": 810
+        },
+        {
+            "character": "倯",
+            "testCaseNumber": 811
+        },
+        {
+            "character": "倰",
+            "testCaseNumber": 812
+        },
+        {
+            "character": "倱",
+            "testCaseNumber": 813
+        },
+        {
+            "character": "倲",
+            "testCaseNumber": 814
+        },
+        {
+            "character": "倳",
+            "testCaseNumber": 815
+        },
+        {
+            "character": "倴",
+            "testCaseNumber": 816
+        },
+        {
+            "character": "倵",
+            "testCaseNumber": 817
+        },
+        {
+            "character": "倶",
+            "testCaseNumber": 818
+        },
+        {
+            "character": "倷",
+            "testCaseNumber": 819
+        },
+        {
+            "character": "倸",
+            "testCaseNumber": 820
+        },
+        {
+            "character": "倹",
+            "testCaseNumber": 821
+        },
+        {
+            "character": "债",
+            "testCaseNumber": 822
+        },
+        {
+            "character": "倻",
+            "testCaseNumber": 823
+        },
+        {
+            "character": "值",
+            "testCaseNumber": 824
+        },
+        {
+            "character": "倽",
+            "testCaseNumber": 825
+        },
+        {
+            "character": "倾",
+            "testCaseNumber": 826
+        },
+        {
+            "character": "倿",
+            "testCaseNumber": 827
+        },
+        {
+            "character": "偀",
+            "testCaseNumber": 828
+        },
+        {
+            "character": "偁",
+            "testCaseNumber": 829
+        },
+        {
+            "character": "偂",
+            "testCaseNumber": 830
+        },
+        {
+            "character": "偃",
+            "testCaseNumber": 831
+        },
+        {
+            "character": "偄",
+            "testCaseNumber": 832
+        },
+        {
+            "character": "偅",
+            "testCaseNumber": 833
+        },
+        {
+            "character": "偆",
+            "testCaseNumber": 834
+        },
+        {
+            "character": "假",
+            "testCaseNumber": 835
+        },
+        {
+            "character": "偈",
+            "testCaseNumber": 836
+        },
+        {
+            "character": "偉",
+            "testCaseNumber": 837
+        },
+        {
+            "character": "偊",
+            "testCaseNumber": 838
+        },
+        {
+            "character": "偋",
+            "testCaseNumber": 839
+        },
+        {
+            "character": "偌",
+            "testCaseNumber": 840
+        },
+        {
+            "character": "偍",
+            "testCaseNumber": 841
+        },
+        {
+            "character": "偎",
+            "testCaseNumber": 842
+        },
+        {
+            "character": "偏",
+            "testCaseNumber": 843
+        },
+        {
+            "character": "偐",
+            "testCaseNumber": 844
+        },
+        {
+            "character": "偑",
+            "testCaseNumber": 845
+        },
+        {
+            "character": "偒",
+            "testCaseNumber": 846
+        },
+        {
+            "character": "偓",
+            "testCaseNumber": 847
+        },
+        {
+            "character": "偔",
+            "testCaseNumber": 848
+        },
+        {
+            "character": "偕",
+            "testCaseNumber": 849
+        },
+        {
+            "character": "偖",
+            "testCaseNumber": 850
+        },
+        {
+            "character": "偗",
+            "testCaseNumber": 851
+        },
+        {
+            "character": "偘",
+            "testCaseNumber": 852
+        },
+        {
+            "character": "偙",
+            "testCaseNumber": 853
+        },
+        {
+            "character": "做",
+            "testCaseNumber": 854
+        },
+        {
+            "character": "偛",
+            "testCaseNumber": 855
+        },
+        {
+            "character": "停",
+            "testCaseNumber": 856
+        },
+        {
+            "character": "偝",
+            "testCaseNumber": 857
+        },
+        {
+            "character": "偞",
+            "testCaseNumber": 858
+        },
+        {
+            "character": "偟",
+            "testCaseNumber": 859
+        },
+        {
+            "character": "偠",
+            "testCaseNumber": 860
+        },
+        {
+            "character": "偡",
+            "testCaseNumber": 861
+        },
+        {
+            "character": "偢",
+            "testCaseNumber": 862
+        },
+        {
+            "character": "偣",
+            "testCaseNumber": 863
+        },
+        {
+            "character": "偤",
+            "testCaseNumber": 864
+        },
+        {
+            "character": "健",
+            "testCaseNumber": 865
+        },
+        {
+            "character": "偦",
+            "testCaseNumber": 866
+        },
+        {
+            "character": "偧",
+            "testCaseNumber": 867
+        },
+        {
+            "character": "偨",
+            "testCaseNumber": 868
+        },
+        {
+            "character": "偩",
+            "testCaseNumber": 869
+        },
+        {
+            "character": "偪",
+            "testCaseNumber": 870
+        },
+        {
+            "character": "偫",
+            "testCaseNumber": 871
+        },
+        {
+            "character": "偬",
+            "testCaseNumber": 872
+        },
+        {
+            "character": "偭",
+            "testCaseNumber": 873
+        },
+        {
+            "character": "偮",
+            "testCaseNumber": 874
+        },
+        {
+            "character": "偯",
+            "testCaseNumber": 875
+        },
+        {
+            "character": "偰",
+            "testCaseNumber": 876
+        },
+        {
+            "character": "偱",
+            "testCaseNumber": 877
+        },
+        {
+            "character": "偲",
+            "testCaseNumber": 878
+        },
+        {
+            "character": "偳",
+            "testCaseNumber": 879
+        },
+        {
+            "character": "側",
+            "testCaseNumber": 880
+        },
+        {
+            "character": "偵",
+            "testCaseNumber": 881
+        },
+        {
+            "character": "偶",
+            "testCaseNumber": 882
+        },
+        {
+            "character": "偷",
+            "testCaseNumber": 883
+        },
+        {
+            "character": "偸",
+            "testCaseNumber": 884
+        },
+        {
+            "character": "偹",
+            "testCaseNumber": 885
+        },
+        {
+            "character": "偺",
+            "testCaseNumber": 886
+        },
+        {
+            "character": "偻",
+            "testCaseNumber": 887
+        },
+        {
+            "character": "偼",
+            "testCaseNumber": 888
+        },
+        {
+            "character": "偽",
+            "testCaseNumber": 889
+        },
+        {
+            "character": "偾",
+            "testCaseNumber": 890
+        },
+        {
+            "character": "偿",
+            "testCaseNumber": 891
+        },
+        {
+            "character": "傀",
+            "testCaseNumber": 892
+        },
+        {
+            "character": "傁",
+            "testCaseNumber": 893
+        },
+        {
+            "character": "傂",
+            "testCaseNumber": 894
+        },
+        {
+            "character": "傃",
+            "testCaseNumber": 895
+        },
+        {
+            "character": "傄",
+            "testCaseNumber": 896
+        },
+        {
+            "character": "傅",
+            "testCaseNumber": 897
+        },
+        {
+            "character": "傆",
+            "testCaseNumber": 898
+        },
+        {
+            "character": "傇",
+            "testCaseNumber": 899
+        },
+        {
+            "character": "傈",
+            "testCaseNumber": 900
+        },
+        {
+            "character": "傉",
+            "testCaseNumber": 901
+        },
+        {
+            "character": "傊",
+            "testCaseNumber": 902
+        },
+        {
+            "character": "傋",
+            "testCaseNumber": 903
+        },
+        {
+            "character": "傌",
+            "testCaseNumber": 904
+        },
+        {
+            "character": "傍",
+            "testCaseNumber": 905
+        },
+        {
+            "character": "傎",
+            "testCaseNumber": 906
+        },
+        {
+            "character": "傏",
+            "testCaseNumber": 907
+        },
+        {
+            "character": "傐",
+            "testCaseNumber": 908
+        },
+        {
+            "character": "傑",
+            "testCaseNumber": 909
+        },
+        {
+            "character": "傒",
+            "testCaseNumber": 910
+        },
+        {
+            "character": "傓",
+            "testCaseNumber": 911
+        },
+        {
+            "character": "傔",
+            "testCaseNumber": 912
+        },
+        {
+            "character": "傕",
+            "testCaseNumber": 913
+        },
+        {
+            "character": "傖",
+            "testCaseNumber": 914
+        },
+        {
+            "character": "傗",
+            "testCaseNumber": 915
+        },
+        {
+            "character": "傘",
+            "testCaseNumber": 916
+        },
+        {
+            "character": "備",
+            "testCaseNumber": 917
+        },
+        {
+            "character": "傚",
+            "testCaseNumber": 918
+        },
+        {
+            "character": "傛",
+            "testCaseNumber": 919
+        },
+        {
+            "character": "傜",
+            "testCaseNumber": 920
+        },
+        {
+            "character": "傝",
+            "testCaseNumber": 921
+        },
+        {
+            "character": "傞",
+            "testCaseNumber": 922
+        },
+        {
+            "character": "傟",
+            "testCaseNumber": 923
+        },
+        {
+            "character": "傠",
+            "testCaseNumber": 924
+        },
+        {
+            "character": "傡",
+            "testCaseNumber": 925
+        },
+        {
+            "character": "傢",
+            "testCaseNumber": 926
+        },
+        {
+            "character": "傣",
+            "testCaseNumber": 927
+        },
+        {
+            "character": "傤",
+            "testCaseNumber": 928
+        },
+        {
+            "character": "傥",
+            "testCaseNumber": 929
+        },
+        {
+            "character": "傦",
+            "testCaseNumber": 930
+        },
+        {
+            "character": "傧",
+            "testCaseNumber": 931
+        },
+        {
+            "character": "储",
+            "testCaseNumber": 932
+        },
+        {
+            "character": "傩",
+            "testCaseNumber": 933
+        },
+        {
+            "character": "傪",
+            "testCaseNumber": 934
+        },
+        {
+            "character": "傫",
+            "testCaseNumber": 935
+        },
+        {
+            "character": "催",
+            "testCaseNumber": 936
+        },
+        {
+            "character": "傭",
+            "testCaseNumber": 937
+        },
+        {
+            "character": "傮",
+            "testCaseNumber": 938
+        },
+        {
+            "character": "傯",
+            "testCaseNumber": 939
+        },
+        {
+            "character": "傰",
+            "testCaseNumber": 940
+        },
+        {
+            "character": "傱",
+            "testCaseNumber": 941
+        },
+        {
+            "character": "傲",
+            "testCaseNumber": 942
+        },
+        {
+            "character": "傳",
+            "testCaseNumber": 943
+        },
+        {
+            "character": "傴",
+            "testCaseNumber": 944
+        },
+        {
+            "character": "債",
+            "testCaseNumber": 945
+        },
+        {
+            "character": "傶",
+            "testCaseNumber": 946
+        },
+        {
+            "character": "傷",
+            "testCaseNumber": 947
+        },
+        {
+            "character": "傸",
+            "testCaseNumber": 948
+        },
+        {
+            "character": "傹",
+            "testCaseNumber": 949
+        },
+        {
+            "character": "傺",
+            "testCaseNumber": 950
+        },
+        {
+            "character": "傻",
+            "testCaseNumber": 951
+        },
+        {
+            "character": "傼",
+            "testCaseNumber": 952
+        },
+        {
+            "character": "傽",
+            "testCaseNumber": 953
+        },
+        {
+            "character": "傾",
+            "testCaseNumber": 954
+        },
+        {
+            "character": "傿",
+            "testCaseNumber": 955
+        },
+        {
+            "character": "僀",
+            "testCaseNumber": 956
+        },
+        {
+            "character": "僁",
+            "testCaseNumber": 957
+        },
+        {
+            "character": "僂",
+            "testCaseNumber": 958
+        },
+        {
+            "character": "僃",
+            "testCaseNumber": 959
+        },
+        {
+            "character": "僄",
+            "testCaseNumber": 960
+        },
+        {
+            "character": "僅",
+            "testCaseNumber": 961
+        },
+        {
+            "character": "僆",
+            "testCaseNumber": 962
+        },
+        {
+            "character": "僇",
+            "testCaseNumber": 963
+        },
+        {
+            "character": "僈",
+            "testCaseNumber": 964
+        },
+        {
+            "character": "僉",
+            "testCaseNumber": 965
+        },
+        {
+            "character": "僊",
+            "testCaseNumber": 966
+        },
+        {
+            "character": "僋",
+            "testCaseNumber": 967
+        },
+        {
+            "character": "僌",
+            "testCaseNumber": 968
+        },
+        {
+            "character": "働",
+            "testCaseNumber": 969
+        },
+        {
+            "character": "僎",
+            "testCaseNumber": 970
+        },
+        {
+            "character": "像",
+            "testCaseNumber": 971
+        },
+        {
+            "character": "僐",
+            "testCaseNumber": 972
+        },
+        {
+            "character": "僑",
+            "testCaseNumber": 973
+        },
+        {
+            "character": "僒",
+            "testCaseNumber": 974
+        },
+        {
+            "character": "僓",
+            "testCaseNumber": 975
+        },
+        {
+            "character": "僔",
+            "testCaseNumber": 976
+        },
+        {
+            "character": "僕",
+            "testCaseNumber": 977
+        },
+        {
+            "character": "僖",
+            "testCaseNumber": 978
+        },
+        {
+            "character": "僗",
+            "testCaseNumber": 979
+        },
+        {
+            "character": "僘",
+            "testCaseNumber": 980
+        },
+        {
+            "character": "僙",
+            "testCaseNumber": 981
+        },
+        {
+            "character": "僚",
+            "testCaseNumber": 982
+        },
+        {
+            "character": "僛",
+            "testCaseNumber": 983
+        },
+        {
+            "character": "僜",
+            "testCaseNumber": 984
+        },
+        {
+            "character": "僝",
+            "testCaseNumber": 985
+        },
+        {
+            "character": "僞",
+            "testCaseNumber": 986
+        },
+        {
+            "character": "僟",
+            "testCaseNumber": 987
+        },
+        {
+            "character": "僠",
+            "testCaseNumber": 988
+        },
+        {
+            "character": "僡",
+            "testCaseNumber": 989
+        },
+        {
+            "character": "僢",
+            "testCaseNumber": 990
+        },
+        {
+            "character": "僣",
+            "testCaseNumber": 991
+        },
+        {
+            "character": "僤",
+            "testCaseNumber": 992
+        },
+        {
+            "character": "僥",
+            "testCaseNumber": 993
+        },
+        {
+            "character": "僦",
+            "testCaseNumber": 994
+        },
+        {
+            "character": "僧",
+            "testCaseNumber": 995
+        },
+        {
+            "character": "僨",
+            "testCaseNumber": 996
+        },
+        {
+            "character": "僩",
+            "testCaseNumber": 997
+        },
+        {
+            "character": "僪",
+            "testCaseNumber": 998
+        },
+        {
+            "character": "僫",
+            "testCaseNumber": 999
+        },
+        {
+            "character": "僬",
+            "testCaseNumber": 1000
+        },
+        {
+            "character": "僭",
+            "testCaseNumber": 1001
+        },
+        {
+            "character": "僮",
+            "testCaseNumber": 1002
+        },
+        {
+            "character": "僯",
+            "testCaseNumber": 1003
+        },
+        {
+            "character": "僰",
+            "testCaseNumber": 1004
+        },
+        {
+            "character": "僱",
+            "testCaseNumber": 1005
+        },
+        {
+            "character": "僲",
+            "testCaseNumber": 1006
+        },
+        {
+            "character": "僳",
+            "testCaseNumber": 1007
+        },
+        {
+            "character": "僴",
+            "testCaseNumber": 1008
+        },
+        {
+            "character": "僵",
+            "testCaseNumber": 1009
+        },
+        {
+            "character": "僶",
+            "testCaseNumber": 1010
+        },
+        {
+            "character": "僷",
+            "testCaseNumber": 1011
+        },
+        {
+            "character": "僸",
+            "testCaseNumber": 1012
+        },
+        {
+            "character": "價",
+            "testCaseNumber": 1013
+        },
+        {
+            "character": "僺",
+            "testCaseNumber": 1014
+        },
+        {
+            "character": "僻",
+            "testCaseNumber": 1015
+        },
+        {
+            "character": "僼",
+            "testCaseNumber": 1016
+        },
+        {
+            "character": "僽",
+            "testCaseNumber": 1017
+        },
+        {
+            "character": "僾",
+            "testCaseNumber": 1018
+        }
+    ]
+}
