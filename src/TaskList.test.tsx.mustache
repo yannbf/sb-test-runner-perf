@@ -1,0 +1,16 @@
+import { render, screen } from "@testing-library/react";
+import { TaskList } from "./TaskList";
+import { within } from '@testing-library/dom';
+
+describe("Task List", () => {
+  {{#testCases}}
+  test(`Unicode test - {{testCaseNumber}}`, () => {
+    const unicodeChar = "{{character}}";
+    const tasks = [unicodeChar];
+    render(<TaskList tasks={tasks}></TaskList>);
+
+    const taskList = screen.getByTestId("task-list");
+    within(taskList).getByText(`0 ${unicodeChar}`);
+  });
+  {{/testCases}}
+});
