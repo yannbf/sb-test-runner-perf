@@ -1,6 +1,7 @@
 import React from 'react';
 import { ComponentStory, ComponentMeta } from '@storybook/react';
-
+import { within } from '@storybook/testing-library';
+import { expect } from '@storybook/jest';
 import { TaskList } from './TaskList';
 
 const Template: ComponentStory<typeof TaskList> = (args) => <TaskList {...args} />;
@@ -18,5 +19,10 @@ export default {
 export const testCase{{testCaseNumber}} = Template.bind({});
 testCase{{testCaseNumber}}.args = {
   tasks: ["{{character}}"]
+};
+testCase{{testCaseNumber}}.play = async ({ canvasElement }) => {
+  await expect(
+    within(canvasElement).getByText(`0 {{character}}`)
+  ).toBeInTheDocument();
 };
 {{/testCases}}
